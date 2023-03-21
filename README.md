@@ -1,17 +1,17 @@
 # A Fast and Robust Fourier Option Pricing Method: Defining a Truncation Range Formula Explicitly for Various Advanced Stock Price Models
 
 Being able to price options and multiple strikes at high speed is known to be a very important facet
-of computational finance: \
+of computational finance: 
 
 “...stock price models are typically calibrated to gives prices of liquid call and put options by
 minimizing the mean-square-error between model prices and given market prices. During the
 optimization routine, model prices of call and put options need to be evaluated very often for
-different model parameters.” \
+different model parameters.” 
 
 The COS Method is a Fourier option pricing technique that allows for options to be priced extremely
 quickly. It is in fact the fastest known Fourier transform technique. It was first documented in Fang
 and Osterlee’s paper; “A Novel Pricing Method for European Options Based on Fourier-Cosine Series
-Expansions”, Fang’s Phd thesis.\
+Expansions”, Fang’s Phd thesis.
 
 There are some outstanding issues with this method pertaining mainly to divergence in some
 advanced stock price models, namely L´evy processes with jumps, and major option

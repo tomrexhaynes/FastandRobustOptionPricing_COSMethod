@@ -20,6 +20,7 @@ solutions I have found in my research. The aim is to formulate a more robust COS
 pricing stock options at a very wide range of strikes across numerous advanced stock price models
 whilst attempting to maintain the computational efficiency of the COS method.
 
+**Note:**
 **In /Research is my research paper and the associated jupyter notebook. I recieved 100% for this piece of work. The below is not graded**
 
 ***To Do***

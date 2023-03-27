@@ -19,3 +19,7 @@ pricing errors in extreme moneyness options. Here I examine these issues and imp
 solutions I have found in my research. The aim is to formulate a more robust COS-method for
 pricing stock options at a very wide range of strikes across numerous advanced stock price models
 whilst attempting to maintain the computational efficiency of the COS method.
+
+***To Do***
+- Robust/Fast COS Fourier Pricing Program ($\texttt{.py}$ module)
+- Robust/Fast COS Fourier Model Calibrator
